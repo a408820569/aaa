@@ -1,6 +1,6 @@
 {  
   "name": "a408820569/aaa",  
-  "description": "ÃèÊö",  
+  "description": "ï¿½ï¿½ï¿½ï¿½",  
   "keywords": [  
     "yii2",  
     "terrytest"  
@@ -19,7 +19,7 @@
   ],  
   "minimum-stability": "stable",  
   "require": {  
-    "php": ">=5.4.0",  
+    "php": ">=5.2.0",  
     "yiisoft/yii2": ">=2.0.6"  
      
   },  
