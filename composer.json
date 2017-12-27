@@ -1,0 +1,34 @@
+{  
+  "name": "aaa",  
+  "description": "ÃèÊö",  
+  "keywords": [  
+    "yii2",  
+    "terrytest"  
+  ],  
+  "homepage": "https://github.com/a408820569/aaa",  
+  "type": "yii2-extension",  
+  "license": "MIT",  
+  "support": {  
+    "source": "https://github.com/a408820569/aaa"  
+  },  
+  "authors": [  
+    {  
+      "name": "a408820569",  
+      "email": "8453460@qq.com"  
+    }  
+  ],  
+  "minimum-stability": "stable",  
+  "require": {  
+    "php": ">=5.4.0",  
+    "yiisoft/yii2": ">=2.0.6"  
+     
+  },  
+  "autoload": {  
+    "psr-4": {  
+      "terry\\": ""  
+    }  
+  },  
+  "config": {  
+    "process-timeout": 1800  
+  }  
+}  
