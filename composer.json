@@ -2,14 +2,9 @@
   "name": "a408820569/aaa",  
   "description": "this is aaa",  
   "keywords": [  
-    "terrytest"  
+    "aaa"  
   ],  
-  "homepage": "https://github.com/a408820569/aaa",  
-  "type": "yii2-extension",  
   "license": "MIT",  
-  "support": {  
-    "source": "https://github.com/a408820569/aaa"  
-  },  
   "authors": [  
     {  
       "name": "a408820569",  
@@ -23,10 +18,7 @@
   },  
   "autoload": {  
     "psr-4": {  
-      "terry\\": ""  
+      "aaa\\": ""  
     }  
-  },  
-  "config": {  
-    "process-timeout": 1800  
-  }  
+  }
 }  
