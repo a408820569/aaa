@@ -1,8 +1,7 @@
-{  
+﻿{  
   "name": "a408820569/aaa",  
   "description": "����",  
   "keywords": [  
-    "yii2",  
     "terrytest"  
   ],  
   "homepage": "https://github.com/a408820569/aaa",  
@@ -19,8 +18,7 @@
   ],  
   "minimum-stability": "stable",  
   "require": {  
-    "php": ">=5.2.0",  
-    "yiisoft/yii2": ">=2.0.6"  
+    "php": ">=5.2.0"
      
   },  
   "autoload": {  
