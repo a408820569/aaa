@@ -1,10 +1,16 @@
 ﻿{  
   "name": "a408820569/aaa",  
-  "description": "this is aaa",  
+  "description": "Yii2 zqy234 terrytest",  
   "keywords": [  
-    "aaa"  
+    "yii2",  
+    "terrytest"  
   ],  
+  "homepage": "https://github.com/a408820569/aaa",  
+  "type": "yii2-extension",  
   "license": "MIT",  
+  "support": {  
+    "source": "https://github.com/a408820569/aaa"  
+  },  
   "authors": [  
     {  
       "name": "a408820569",  
@@ -13,11 +19,16 @@
   ],  
   "minimum-stability": "stable",  
   "require": {  
-    "php": ">=5.2.0"
+    "php": ">=5.4.0",  
+    "yiisoft/yii2": ">=2.0.6"  
+     
   },  
   "autoload": {  
     "psr-4": {  
-      "aaa\\": ""  
+      "terry\\": ""  
     }  
-  }
+  },  
+  "config": {  
+    "process-timeout": 1800  
+  }  
 }  
